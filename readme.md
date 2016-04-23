@@ -1,6 +1,6 @@
 ## Step 1: Install node
 Skip this part if you already had node.
-If not visit [this page]([link to Google!](http://google.com) and follow the instructions.
+If not visit [this page](http://google.com) and follow the instructions.
 
 **NOTE:** You might need to install **homebrew** as well.
 
