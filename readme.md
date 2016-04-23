@@ -9,7 +9,6 @@ Type this command in your terminal ```sudo npm install gulp -g```
 
 ## Step 3: Install all needed plugins for gulp
 There's a bunch of stuff we includes in **gulpfile.js**, so we need to
-
 install them by running ```npm install``` in our terminal.
 
 The list of the plugins we're using are inside **package.json**.
